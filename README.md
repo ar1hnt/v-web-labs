@@ -4,6 +4,21 @@
 
 ## Предпросмотр
 
+# Desktop - Home
+![DesktopHome](Digit%20—%20интернет-магазин.png)
+
+# Desktop — Search
+![DesktopSearch](Search.png)
+
+# Desktop — Favorite
+![DesktopFavorite](Favorite.png)
+
+# Desktop — Cart
+![DesktopCart](Cart.png)
+
+# Mobile - Home
+![MobileHome](Mobile.png)
+
 ## Установка
 
 ```bash
