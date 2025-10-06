@@ -4,19 +4,19 @@
 
 ## Предпросмотр
 
-# Desktop - Home
+### Desktop - Home
 ![DesktopHome](Digit%20—%20интернет-магазин.png)
 
-# Desktop — Search
+### Desktop — Search
 ![DesktopSearch](Search.png)
 
-# Desktop — Favorite
+### Desktop — Favorite
 ![DesktopFavorite](Favorite.png)
 
-# Desktop — Cart
+### Desktop — Cart
 ![DesktopCart](Cart.png)
 
-# Mobile - Home
+### Mobile - Home
 ![MobileHome](Mobile.png)
 
 ## Установка
