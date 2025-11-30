@@ -1,0 +1,16 @@
+node_modules
+package-lock.json
+dist
+.vscode
+.DS_Store
+.env
+.idea
+.vscode-test
+.vscode-test/
+.vscode-test/**
+.vscode-test/**/*
+.vscode-test/**/*
+.vscode-test/**/out
+.vscode-test/**/out/**
+.vscode-test/**/out/**/*.js
+.vscode-test/**/out/**/*.d.ts
